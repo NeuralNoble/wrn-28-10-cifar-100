@@ -1,6 +1,7 @@
 # WideResNet-28-10 on CIFAR-100
 
 NoteBook Link - https://colab.research.google.com/drive/1lX0zJ-UMsALPBJo8rU4bpzZGw4SJU84r?usp=sharing
+Training logs - 'trainglogs.md'
 
 ## Abstract
 
